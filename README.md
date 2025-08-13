@@ -10,9 +10,8 @@ Email Me 👉 ✉️ **divyanshupadhyay234@gmail.com** For Collaboration/Project
 - 📫 **How to reach me:** divyanshupadhyay234@gmail.com
 - ⚡ **Fun fact:** I enjoy turning complex tech into simple, working solutions!
 
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/macpra25) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/macpra0562) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/@Divyans07080042) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@codepen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyanshupadhyay234@gmail.com) 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DivyanshUpadhyay790&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Snake Game Repo View -->
 
@@ -27,8 +26,8 @@ Email Me 👉 ✉️ **divyanshupadhyay234@gmail.com** For Collaboration/Project
 ![](https://nirzak-streak-stats.vercel.app/?user=DivyanshUpadhyay790&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshUpadhyay790&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DivyanshUpadhyay790&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/macpra25) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/macpra0562) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/@Divyans07080042) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@codepen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyanshupadhyay234@gmail.com) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
